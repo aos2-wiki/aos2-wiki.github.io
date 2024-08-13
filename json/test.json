@@ -1,0 +1,19 @@
+{
+    "name": "test",
+    "count": 1,
+    "isunique": true,
+    "alist": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "adict": {
+        "key1": "value1",
+        "key2": "value2",
+        "name": "testvalue2",
+        "count": 1,
+        "isunique": false,
+        "adict": {}
+    }
+}

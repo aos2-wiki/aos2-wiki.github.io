@@ -1,0 +1,39 @@
+{
+    "game-info": {
+      "title": "Acceleration of SUGURI 2",
+      "game-info-rows": [
+        {
+          "header": "开发",
+          "content": [
+            "橙汁",
+          ]
+        },
+        {
+          "header": "发行",
+          "content": [
+            "FruitbatFactory"
+          ]
+        },
+        {
+            "header": "游戏平台",
+            "content": [
+              "PC(Steam)"
+            ]
+          },
+        {
+            "header": "发布日期",
+            "content": [
+              "2011/8/12（C80，同人版）"
+              "2018/3/8（Steam版）"
+            ]
+        },
+        {
+            "header": "网站链接",
+            "content": [
+              "https://daidai.moo.jp/aos2/aos2.html"
+              "https://fruitbatfactory.com/aos2/"
+            ]
+        },
+      ]
+    }
+  }
