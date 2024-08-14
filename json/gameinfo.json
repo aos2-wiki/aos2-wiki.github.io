@@ -5,7 +5,7 @@
         {
           "header": "开发",
           "content": [
-            "橙汁",
+            "橙汁"
           ]
         },
         {
@@ -23,17 +23,17 @@
         {
             "header": "发布日期",
             "content": [
-              "2011/8/12（C80，同人版）"
+              "2011/8/12（C80，同人版）",
               "2018/3/8（Steam版）"
             ]
         },
         {
             "header": "网站链接",
-            "content": [
-              "https://daidai.moo.jp/aos2/aos2.html"
-              "https://fruitbatfactory.com/aos2/"
-            ]
-        },
+            "content": {
+              "Official Japanese Site":"https://daidai.moo.jp/aos2/aos2.html",
+              "key2":"https://fruitbatfactory.com/aos2/"
+            }
+        }
       ]
     }
   }
